@@ -1,0 +1,104 @@
+﻿  Main.cpp
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(204,29): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(210,33): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(216,30): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(221,36): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(421,53): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(451,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(471,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(524,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(553,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(587,39): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(640,61): warning C4267: '인수': 'size_t'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(744,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(807,44): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(813,44): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(820,28): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(826,29): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(828,51): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(828,47): warning C4244: '인수': 'T'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(829,54): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(831,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(834,61): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(834,57): warning C4244: '인수': 'T'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(835,101): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(835,78): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(835,55): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(837,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(852,34): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(858,33): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(864,31): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1186,39): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1185,39): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1184,57): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1460,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1459,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1458,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1481,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1527,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1526,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1525,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1550,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1615,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1614,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1613,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1636,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1684,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1683,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1682,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1707,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1783,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1782,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1781,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1804,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1860,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1859,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1858,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1883,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1930,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2007,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(1989,16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2077,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2056,95): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2056,71): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2056,47): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2169,58): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2169,35): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2170,61): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2170,38): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+F:\[GitHub]\230900_CSFML_vampsurv\SFML_test_magicion\GameData.h(2496,37): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+MSVCRT.lib(initializers.obj) : warning LNK4098: 'msvcrtd.lib' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  코드를 생성하고 있습니다.
+  2 of 1387 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  SFML_test_magicion.vcxproj -> F:\[GitHub]\230900_CSFML_vampsurv\x64\Release\SFML_test_magicion.exe

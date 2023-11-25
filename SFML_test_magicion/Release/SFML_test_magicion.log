@@ -1,0 +1,97 @@
+﻿  Main.cpp
+  The contents of <numbers> are available only with C++20 or later.
+  The contents of <any> are available only with C++17 or later.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(204,29): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(210,33): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(216,30): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(221,36): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(421,53): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(451,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(471,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(524,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(553,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(587,39): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(744,21): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(809,44): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(815,44): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(822,28): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(828,29): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(830,51): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(830,47): warning C4244: '인수': 'T'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(831,54): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(833,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(836,61): warning C4244: '인수': 'int'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(836,57): warning C4244: '인수': 'T'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(837,101): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(837,78): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(837,55): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(839,49): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(854,34): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(860,33): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(866,31): warning C4244: '인수': 'float'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(924,40): error C3533: 매개 변수에 'auto'이(가) 포함된 형식을 포함할 수 없습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1188,39): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1187,39): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1186,57): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1462,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1461,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1460,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1483,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1529,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1528,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1527,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1552,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1619,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1618,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1617,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1640,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1690,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1689,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1688,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1713,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1789,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1788,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1787,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1810,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1868,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1867,29): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1866,49): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1891,48): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1938,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2015,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(1997,16): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2085,18): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2064,95): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2064,71): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2064,47): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2177,58): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2177,35): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2178,61): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2178,38): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2504,37): warning C4244: '인수': 'float'에서 'sf::Uint8'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2574,34): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\SFML_test_magicion\GameData.h(2703,54): error C3533: 매개 변수에 'auto'이(가) 포함된 형식을 포함할 수 없습니다.

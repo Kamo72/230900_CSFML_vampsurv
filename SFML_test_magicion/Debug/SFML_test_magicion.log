@@ -1,0 +1,25 @@
+﻿  test.cpp
+test.obj : error LNK2019: "public: __thiscall sf::String::String(char const *,class std::locale const &)" (??0String@sf@@QAE@PBDABVlocale@std@@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (??0VideoMode@sf@@QAE@III@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: void __thiscall sf::Window::close(void)" (?close@Window@sf@@QAEXXZ)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: bool __thiscall sf::Window::isOpen(void)const " (?isOpen@Window@sf@@QBE_NXZ)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: void __thiscall sf::Window::display(void)" (?display@Window@sf@@QAEXXZ)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (??0Color@sf@@QAE@EEEE@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: virtual __thiscall sf::Shape::~Shape(void)" (??1Shape@sf@@UAE@XZ)"public: virtual __thiscall sf::CircleShape::~CircleShape(void)" (??1CircleShape@sf@@UAE@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: void __thiscall sf::Shape::setFillColor(class sf::Color const &)" (?setFillColor@Shape@sf@@QAEXABVColor@2@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: __thiscall sf::CircleShape::CircleShape(float,unsigned int)" (??0CircleShape@sf@@QAE@MI@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (?clear@RenderTarget@sf@@QAEXABVColor@2@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2019: "public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (??1RenderWindow@sf@@UAE@XZ)_main 함수에서 참조되는 확인할 수 없는 외부 기호
+test.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class sf::RenderStates const sf::RenderStates::Default" (?Default@RenderStates@sf@@2V12@B)
+test.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: static class sf::Color const sf::Color::Green" (?Green@Color@sf@@2V12@B)
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: _WinMain@16"int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+D:\[Library]\SFML-2.5.1\lib\sfml-main-d.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+D:\[Library]\SFML-2.5.1\lib\sfml-graphics-d.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+D:\[Library]\SFML-2.5.1\lib\sfml-window-d.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+D:\[Library]\SFML-2.5.1\lib\sfml-system-d.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+D:\[Library]\SFML-2.5.1\lib\sfml-audio-d.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+D:\[Library]\SFML-2.5.1\lib\sfml-network-d.lib : warning LNK4272: 'x64' 라이브러리 컴퓨터 종류가 'x86' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\82108\Dropbox\C++\SFML_test_magicion\Debug\SFML_test_magicion.exe : fatal error LNK1120: 17개의 확인할 수 없는 외부 참조입니다.
